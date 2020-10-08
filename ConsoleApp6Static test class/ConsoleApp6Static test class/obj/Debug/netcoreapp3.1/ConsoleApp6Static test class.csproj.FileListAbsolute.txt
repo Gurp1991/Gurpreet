@@ -1,0 +1,13 @@
+C:\Users\Acer\source\repos\ConsoleApp6Static test class\ConsoleApp6Static test class\bin\Debug\netcoreapp3.1\ConsoleApp6Static test class.exe
+C:\Users\Acer\source\repos\ConsoleApp6Static test class\ConsoleApp6Static test class\bin\Debug\netcoreapp3.1\ConsoleApp6Static test class.deps.json
+C:\Users\Acer\source\repos\ConsoleApp6Static test class\ConsoleApp6Static test class\bin\Debug\netcoreapp3.1\ConsoleApp6Static test class.runtimeconfig.json
+C:\Users\Acer\source\repos\ConsoleApp6Static test class\ConsoleApp6Static test class\bin\Debug\netcoreapp3.1\ConsoleApp6Static test class.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\ConsoleApp6Static test class\ConsoleApp6Static test class\bin\Debug\netcoreapp3.1\ConsoleApp6Static test class.dll
+C:\Users\Acer\source\repos\ConsoleApp6Static test class\ConsoleApp6Static test class\bin\Debug\netcoreapp3.1\ConsoleApp6Static test class.pdb
+C:\Users\Acer\source\repos\ConsoleApp6Static test class\ConsoleApp6Static test class\obj\Debug\netcoreapp3.1\ConsoleApp6Static test class.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\ConsoleApp6Static test class\ConsoleApp6Static test class\obj\Debug\netcoreapp3.1\ConsoleApp6Static test class.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\ConsoleApp6Static test class\ConsoleApp6Static test class\obj\Debug\netcoreapp3.1\ConsoleApp6Static test class.AssemblyInfo.cs
+C:\Users\Acer\source\repos\ConsoleApp6Static test class\ConsoleApp6Static test class\obj\Debug\netcoreapp3.1\ConsoleApp6Static test class.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\ConsoleApp6Static test class\ConsoleApp6Static test class\obj\Debug\netcoreapp3.1\ConsoleApp6Static test class.dll
+C:\Users\Acer\source\repos\ConsoleApp6Static test class\ConsoleApp6Static test class\obj\Debug\netcoreapp3.1\ConsoleApp6Static test class.pdb
+C:\Users\Acer\source\repos\ConsoleApp6Static test class\ConsoleApp6Static test class\obj\Debug\netcoreapp3.1\ConsoleApp6Static test class.genruntimeconfig.cache

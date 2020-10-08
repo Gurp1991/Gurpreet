@@ -1,0 +1,13 @@
+C:\Users\Acer\source\repos\ConsoleApp6switchcasetriangle\ConsoleApp6switchcasetriangle\bin\Debug\netcoreapp3.1\Assignment_1_8040.exe
+C:\Users\Acer\source\repos\ConsoleApp6switchcasetriangle\ConsoleApp6switchcasetriangle\bin\Debug\netcoreapp3.1\Assignment_1_8040.deps.json
+C:\Users\Acer\source\repos\ConsoleApp6switchcasetriangle\ConsoleApp6switchcasetriangle\bin\Debug\netcoreapp3.1\Assignment_1_8040.runtimeconfig.json
+C:\Users\Acer\source\repos\ConsoleApp6switchcasetriangle\ConsoleApp6switchcasetriangle\bin\Debug\netcoreapp3.1\Assignment_1_8040.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\ConsoleApp6switchcasetriangle\ConsoleApp6switchcasetriangle\bin\Debug\netcoreapp3.1\Assignment_1_8040.dll
+C:\Users\Acer\source\repos\ConsoleApp6switchcasetriangle\ConsoleApp6switchcasetriangle\bin\Debug\netcoreapp3.1\Assignment_1_8040.pdb
+C:\Users\Acer\source\repos\ConsoleApp6switchcasetriangle\ConsoleApp6switchcasetriangle\obj\Debug\netcoreapp3.1\Assignment_1_8040.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\ConsoleApp6switchcasetriangle\ConsoleApp6switchcasetriangle\obj\Debug\netcoreapp3.1\Assignment_1_8040.AssemblyInfo.cs
+C:\Users\Acer\source\repos\ConsoleApp6switchcasetriangle\ConsoleApp6switchcasetriangle\obj\Debug\netcoreapp3.1\Assignment_1_8040.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\ConsoleApp6switchcasetriangle\ConsoleApp6switchcasetriangle\obj\Debug\netcoreapp3.1\Assignment_1_8040.dll
+C:\Users\Acer\source\repos\ConsoleApp6switchcasetriangle\ConsoleApp6switchcasetriangle\obj\Debug\netcoreapp3.1\Assignment_1_8040.pdb
+C:\Users\Acer\source\repos\ConsoleApp6switchcasetriangle\ConsoleApp6switchcasetriangle\obj\Debug\netcoreapp3.1\Assignment_1_8040.genruntimeconfig.cache
+C:\Users\Acer\source\repos\ConsoleApp6switchcasetriangle\ConsoleApp6switchcasetriangle\obj\Debug\netcoreapp3.1\Assignment_1_8040.csprojAssemblyReference.cache

@@ -1,0 +1,13 @@
+C:\Users\Acer\source\repos\switch case program practise\switch case program practise\obj\Debug\netcoreapp3.1\switch case program practise.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\switch case program practise\switch case program practise\obj\Debug\netcoreapp3.1\switch case program practise.AssemblyInfo.cs
+C:\Users\Acer\source\repos\switch case program practise\switch case program practise\obj\Debug\netcoreapp3.1\switch case program practise.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\switch case program practise\switch case program practise\obj\Debug\netcoreapp3.1\switch case program practise.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\switch case program practise\switch case program practise\bin\Debug\netcoreapp3.1\switch case program practise.exe
+C:\Users\Acer\source\repos\switch case program practise\switch case program practise\bin\Debug\netcoreapp3.1\switch case program practise.deps.json
+C:\Users\Acer\source\repos\switch case program practise\switch case program practise\bin\Debug\netcoreapp3.1\switch case program practise.runtimeconfig.json
+C:\Users\Acer\source\repos\switch case program practise\switch case program practise\bin\Debug\netcoreapp3.1\switch case program practise.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\switch case program practise\switch case program practise\bin\Debug\netcoreapp3.1\switch case program practise.dll
+C:\Users\Acer\source\repos\switch case program practise\switch case program practise\bin\Debug\netcoreapp3.1\switch case program practise.pdb
+C:\Users\Acer\source\repos\switch case program practise\switch case program practise\obj\Debug\netcoreapp3.1\switch case program practise.dll
+C:\Users\Acer\source\repos\switch case program practise\switch case program practise\obj\Debug\netcoreapp3.1\switch case program practise.pdb
+C:\Users\Acer\source\repos\switch case program practise\switch case program practise\obj\Debug\netcoreapp3.1\switch case program practise.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Acer\source\repos\calculate code metrics\calculate code metrics\bin\Debug\netcoreapp3.1\calculate code metrics.exe
+C:\Users\Acer\source\repos\calculate code metrics\calculate code metrics\bin\Debug\netcoreapp3.1\calculate code metrics.deps.json
+C:\Users\Acer\source\repos\calculate code metrics\calculate code metrics\bin\Debug\netcoreapp3.1\calculate code metrics.runtimeconfig.json
+C:\Users\Acer\source\repos\calculate code metrics\calculate code metrics\bin\Debug\netcoreapp3.1\calculate code metrics.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\calculate code metrics\calculate code metrics\bin\Debug\netcoreapp3.1\calculate code metrics.dll
+C:\Users\Acer\source\repos\calculate code metrics\calculate code metrics\bin\Debug\netcoreapp3.1\calculate code metrics.pdb
+C:\Users\Acer\source\repos\calculate code metrics\calculate code metrics\obj\Debug\netcoreapp3.1\calculate code metrics.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\calculate code metrics\calculate code metrics\obj\Debug\netcoreapp3.1\calculate code metrics.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\calculate code metrics\calculate code metrics\obj\Debug\netcoreapp3.1\calculate code metrics.AssemblyInfo.cs
+C:\Users\Acer\source\repos\calculate code metrics\calculate code metrics\obj\Debug\netcoreapp3.1\calculate code metrics.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\calculate code metrics\calculate code metrics\obj\Debug\netcoreapp3.1\calculate code metrics.dll
+C:\Users\Acer\source\repos\calculate code metrics\calculate code metrics\obj\Debug\netcoreapp3.1\calculate code metrics.pdb
+C:\Users\Acer\source\repos\calculate code metrics\calculate code metrics\obj\Debug\netcoreapp3.1\calculate code metrics.genruntimeconfig.cache

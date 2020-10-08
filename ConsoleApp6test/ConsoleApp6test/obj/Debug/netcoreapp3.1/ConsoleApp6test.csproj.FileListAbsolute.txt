@@ -1,0 +1,13 @@
+C:\Users\Acer\source\repos\ConsoleApp6test\ConsoleApp6test\bin\Debug\netcoreapp3.1\ConsoleApp6test.exe
+C:\Users\Acer\source\repos\ConsoleApp6test\ConsoleApp6test\bin\Debug\netcoreapp3.1\ConsoleApp6test.deps.json
+C:\Users\Acer\source\repos\ConsoleApp6test\ConsoleApp6test\bin\Debug\netcoreapp3.1\ConsoleApp6test.runtimeconfig.json
+C:\Users\Acer\source\repos\ConsoleApp6test\ConsoleApp6test\bin\Debug\netcoreapp3.1\ConsoleApp6test.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\ConsoleApp6test\ConsoleApp6test\bin\Debug\netcoreapp3.1\ConsoleApp6test.dll
+C:\Users\Acer\source\repos\ConsoleApp6test\ConsoleApp6test\bin\Debug\netcoreapp3.1\ConsoleApp6test.pdb
+C:\Users\Acer\source\repos\ConsoleApp6test\ConsoleApp6test\obj\Debug\netcoreapp3.1\ConsoleApp6test.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\ConsoleApp6test\ConsoleApp6test\obj\Debug\netcoreapp3.1\ConsoleApp6test.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\ConsoleApp6test\ConsoleApp6test\obj\Debug\netcoreapp3.1\ConsoleApp6test.AssemblyInfo.cs
+C:\Users\Acer\source\repos\ConsoleApp6test\ConsoleApp6test\obj\Debug\netcoreapp3.1\ConsoleApp6test.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\ConsoleApp6test\ConsoleApp6test\obj\Debug\netcoreapp3.1\ConsoleApp6test.dll
+C:\Users\Acer\source\repos\ConsoleApp6test\ConsoleApp6test\obj\Debug\netcoreapp3.1\ConsoleApp6test.pdb
+C:\Users\Acer\source\repos\ConsoleApp6test\ConsoleApp6test\obj\Debug\netcoreapp3.1\ConsoleApp6test.genruntimeconfig.cache

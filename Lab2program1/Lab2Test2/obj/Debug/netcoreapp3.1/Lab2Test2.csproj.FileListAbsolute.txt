@@ -1,0 +1,4 @@
+C:\Users\Acer\source\repos\Lab2program1\Lab2Test2\obj\Debug\netcoreapp3.1\Lab2Test2.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\Lab2program1\Lab2Test2\obj\Debug\netcoreapp3.1\Lab2Test2.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\Lab2program1\Lab2Test2\obj\Debug\netcoreapp3.1\Lab2Test2.AssemblyInfo.cs
+C:\Users\Acer\source\repos\Lab2program1\Lab2Test2\obj\Debug\netcoreapp3.1\Lab2Test2.csproj.CoreCompileInputs.cache

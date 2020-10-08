@@ -1,0 +1,13 @@
+C:\Users\Acer\source\repos\AgaintestingTriangleclass\AgaintestingTriangleclass\bin\Debug\netcoreapp3.1\AgaintestingTriangleclass.exe
+C:\Users\Acer\source\repos\AgaintestingTriangleclass\AgaintestingTriangleclass\bin\Debug\netcoreapp3.1\AgaintestingTriangleclass.deps.json
+C:\Users\Acer\source\repos\AgaintestingTriangleclass\AgaintestingTriangleclass\bin\Debug\netcoreapp3.1\AgaintestingTriangleclass.runtimeconfig.json
+C:\Users\Acer\source\repos\AgaintestingTriangleclass\AgaintestingTriangleclass\bin\Debug\netcoreapp3.1\AgaintestingTriangleclass.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\AgaintestingTriangleclass\AgaintestingTriangleclass\bin\Debug\netcoreapp3.1\AgaintestingTriangleclass.dll
+C:\Users\Acer\source\repos\AgaintestingTriangleclass\AgaintestingTriangleclass\bin\Debug\netcoreapp3.1\AgaintestingTriangleclass.pdb
+C:\Users\Acer\source\repos\AgaintestingTriangleclass\AgaintestingTriangleclass\obj\Debug\netcoreapp3.1\AgaintestingTriangleclass.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\AgaintestingTriangleclass\AgaintestingTriangleclass\obj\Debug\netcoreapp3.1\AgaintestingTriangleclass.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\AgaintestingTriangleclass\AgaintestingTriangleclass\obj\Debug\netcoreapp3.1\AgaintestingTriangleclass.AssemblyInfo.cs
+C:\Users\Acer\source\repos\AgaintestingTriangleclass\AgaintestingTriangleclass\obj\Debug\netcoreapp3.1\AgaintestingTriangleclass.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\AgaintestingTriangleclass\AgaintestingTriangleclass\obj\Debug\netcoreapp3.1\AgaintestingTriangleclass.dll
+C:\Users\Acer\source\repos\AgaintestingTriangleclass\AgaintestingTriangleclass\obj\Debug\netcoreapp3.1\AgaintestingTriangleclass.pdb
+C:\Users\Acer\source\repos\AgaintestingTriangleclass\AgaintestingTriangleclass\obj\Debug\netcoreapp3.1\AgaintestingTriangleclass.genruntimeconfig.cache

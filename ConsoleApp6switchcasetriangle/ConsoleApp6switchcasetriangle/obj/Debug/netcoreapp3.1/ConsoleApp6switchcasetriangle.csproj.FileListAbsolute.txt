@@ -1,0 +1,13 @@
+C:\Users\Acer\source\repos\ConsoleApp6switchcasetriangle\ConsoleApp6switchcasetriangle\bin\Debug\netcoreapp3.1\ConsoleApp6switchcasetriangle.exe
+C:\Users\Acer\source\repos\ConsoleApp6switchcasetriangle\ConsoleApp6switchcasetriangle\bin\Debug\netcoreapp3.1\ConsoleApp6switchcasetriangle.deps.json
+C:\Users\Acer\source\repos\ConsoleApp6switchcasetriangle\ConsoleApp6switchcasetriangle\bin\Debug\netcoreapp3.1\ConsoleApp6switchcasetriangle.runtimeconfig.json
+C:\Users\Acer\source\repos\ConsoleApp6switchcasetriangle\ConsoleApp6switchcasetriangle\bin\Debug\netcoreapp3.1\ConsoleApp6switchcasetriangle.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\ConsoleApp6switchcasetriangle\ConsoleApp6switchcasetriangle\bin\Debug\netcoreapp3.1\ConsoleApp6switchcasetriangle.dll
+C:\Users\Acer\source\repos\ConsoleApp6switchcasetriangle\ConsoleApp6switchcasetriangle\bin\Debug\netcoreapp3.1\ConsoleApp6switchcasetriangle.pdb
+C:\Users\Acer\source\repos\ConsoleApp6switchcasetriangle\ConsoleApp6switchcasetriangle\obj\Debug\netcoreapp3.1\ConsoleApp6switchcasetriangle.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\ConsoleApp6switchcasetriangle\ConsoleApp6switchcasetriangle\obj\Debug\netcoreapp3.1\ConsoleApp6switchcasetriangle.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\ConsoleApp6switchcasetriangle\ConsoleApp6switchcasetriangle\obj\Debug\netcoreapp3.1\ConsoleApp6switchcasetriangle.AssemblyInfo.cs
+C:\Users\Acer\source\repos\ConsoleApp6switchcasetriangle\ConsoleApp6switchcasetriangle\obj\Debug\netcoreapp3.1\ConsoleApp6switchcasetriangle.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\ConsoleApp6switchcasetriangle\ConsoleApp6switchcasetriangle\obj\Debug\netcoreapp3.1\ConsoleApp6switchcasetriangle.dll
+C:\Users\Acer\source\repos\ConsoleApp6switchcasetriangle\ConsoleApp6switchcasetriangle\obj\Debug\netcoreapp3.1\ConsoleApp6switchcasetriangle.pdb
+C:\Users\Acer\source\repos\ConsoleApp6switchcasetriangle\ConsoleApp6switchcasetriangle\obj\Debug\netcoreapp3.1\ConsoleApp6switchcasetriangle.genruntimeconfig.cache

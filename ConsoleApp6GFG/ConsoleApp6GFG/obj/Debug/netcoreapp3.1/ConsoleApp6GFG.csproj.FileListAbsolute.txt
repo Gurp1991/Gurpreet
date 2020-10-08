@@ -1,0 +1,13 @@
+C:\Users\Acer\source\repos\ConsoleApp6GFG\ConsoleApp6GFG\bin\Debug\netcoreapp3.1\ConsoleApp6GFG.exe
+C:\Users\Acer\source\repos\ConsoleApp6GFG\ConsoleApp6GFG\bin\Debug\netcoreapp3.1\ConsoleApp6GFG.deps.json
+C:\Users\Acer\source\repos\ConsoleApp6GFG\ConsoleApp6GFG\bin\Debug\netcoreapp3.1\ConsoleApp6GFG.runtimeconfig.json
+C:\Users\Acer\source\repos\ConsoleApp6GFG\ConsoleApp6GFG\bin\Debug\netcoreapp3.1\ConsoleApp6GFG.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\ConsoleApp6GFG\ConsoleApp6GFG\bin\Debug\netcoreapp3.1\ConsoleApp6GFG.dll
+C:\Users\Acer\source\repos\ConsoleApp6GFG\ConsoleApp6GFG\bin\Debug\netcoreapp3.1\ConsoleApp6GFG.pdb
+C:\Users\Acer\source\repos\ConsoleApp6GFG\ConsoleApp6GFG\obj\Debug\netcoreapp3.1\ConsoleApp6GFG.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\ConsoleApp6GFG\ConsoleApp6GFG\obj\Debug\netcoreapp3.1\ConsoleApp6GFG.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\ConsoleApp6GFG\ConsoleApp6GFG\obj\Debug\netcoreapp3.1\ConsoleApp6GFG.AssemblyInfo.cs
+C:\Users\Acer\source\repos\ConsoleApp6GFG\ConsoleApp6GFG\obj\Debug\netcoreapp3.1\ConsoleApp6GFG.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\ConsoleApp6GFG\ConsoleApp6GFG\obj\Debug\netcoreapp3.1\ConsoleApp6GFG.dll
+C:\Users\Acer\source\repos\ConsoleApp6GFG\ConsoleApp6GFG\obj\Debug\netcoreapp3.1\ConsoleApp6GFG.pdb
+C:\Users\Acer\source\repos\ConsoleApp6GFG\ConsoleApp6GFG\obj\Debug\netcoreapp3.1\ConsoleApp6GFG.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Acer\source\repos\comapre code metrics\comapre code metrics\bin\Debug\netcoreapp3.1\comapre code metrics.exe
+C:\Users\Acer\source\repos\comapre code metrics\comapre code metrics\bin\Debug\netcoreapp3.1\comapre code metrics.deps.json
+C:\Users\Acer\source\repos\comapre code metrics\comapre code metrics\bin\Debug\netcoreapp3.1\comapre code metrics.runtimeconfig.json
+C:\Users\Acer\source\repos\comapre code metrics\comapre code metrics\bin\Debug\netcoreapp3.1\comapre code metrics.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\comapre code metrics\comapre code metrics\bin\Debug\netcoreapp3.1\comapre code metrics.dll
+C:\Users\Acer\source\repos\comapre code metrics\comapre code metrics\bin\Debug\netcoreapp3.1\comapre code metrics.pdb
+C:\Users\Acer\source\repos\comapre code metrics\comapre code metrics\obj\Debug\netcoreapp3.1\comapre code metrics.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\comapre code metrics\comapre code metrics\obj\Debug\netcoreapp3.1\comapre code metrics.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\comapre code metrics\comapre code metrics\obj\Debug\netcoreapp3.1\comapre code metrics.AssemblyInfo.cs
+C:\Users\Acer\source\repos\comapre code metrics\comapre code metrics\obj\Debug\netcoreapp3.1\comapre code metrics.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\comapre code metrics\comapre code metrics\obj\Debug\netcoreapp3.1\comapre code metrics.dll
+C:\Users\Acer\source\repos\comapre code metrics\comapre code metrics\obj\Debug\netcoreapp3.1\comapre code metrics.pdb
+C:\Users\Acer\source\repos\comapre code metrics\comapre code metrics\obj\Debug\netcoreapp3.1\comapre code metrics.genruntimeconfig.cache

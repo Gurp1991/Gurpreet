@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\Lab2 program\Lab2 program\bin\Debug\Lab2 program.exe.config
+C:\Users\Acer\source\repos\Lab2 program\Lab2 program\bin\Debug\Lab2 program.exe
+C:\Users\Acer\source\repos\Lab2 program\Lab2 program\bin\Debug\Lab2 program.pdb
+C:\Users\Acer\source\repos\Lab2 program\Lab2 program\obj\Debug\Lab2 program.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\Lab2 program\Lab2 program\obj\Debug\Lab2 program.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Lab2 program\Lab2 program\obj\Debug\Lab2 program.exe
+C:\Users\Acer\source\repos\Lab2 program\Lab2 program\obj\Debug\Lab2 program.pdb

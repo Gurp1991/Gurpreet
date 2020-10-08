@@ -1,0 +1,12 @@
+C:\Users\Acer\source\repos\ConsoleApp6new\ConsoleApp6new\bin\Debug\netcoreapp3.1\addition of two.exe
+C:\Users\Acer\source\repos\ConsoleApp6new\ConsoleApp6new\bin\Debug\netcoreapp3.1\addition of two.deps.json
+C:\Users\Acer\source\repos\ConsoleApp6new\ConsoleApp6new\bin\Debug\netcoreapp3.1\addition of two.runtimeconfig.json
+C:\Users\Acer\source\repos\ConsoleApp6new\ConsoleApp6new\bin\Debug\netcoreapp3.1\addition of two.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\ConsoleApp6new\ConsoleApp6new\bin\Debug\netcoreapp3.1\addition of two.dll
+C:\Users\Acer\source\repos\ConsoleApp6new\ConsoleApp6new\bin\Debug\netcoreapp3.1\addition of two.pdb
+C:\Users\Acer\source\repos\ConsoleApp6new\ConsoleApp6new\obj\Debug\netcoreapp3.1\addition of two.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\ConsoleApp6new\ConsoleApp6new\obj\Debug\netcoreapp3.1\addition of two.AssemblyInfo.cs
+C:\Users\Acer\source\repos\ConsoleApp6new\ConsoleApp6new\obj\Debug\netcoreapp3.1\addition of two.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\ConsoleApp6new\ConsoleApp6new\obj\Debug\netcoreapp3.1\addition of two.dll
+C:\Users\Acer\source\repos\ConsoleApp6new\ConsoleApp6new\obj\Debug\netcoreapp3.1\addition of two.pdb
+C:\Users\Acer\source\repos\ConsoleApp6new\ConsoleApp6new\obj\Debug\netcoreapp3.1\addition of two.genruntimeconfig.cache

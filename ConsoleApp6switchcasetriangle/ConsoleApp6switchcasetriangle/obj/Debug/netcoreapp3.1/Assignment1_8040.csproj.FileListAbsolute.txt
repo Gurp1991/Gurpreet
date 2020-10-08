@@ -1,0 +1,4 @@
+C:\Users\Acer\source\repos\ConsoleApp6switchcasetriangle\ConsoleApp6switchcasetriangle\obj\Debug\netcoreapp3.1\Assignment1_8040.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\ConsoleApp6switchcasetriangle\ConsoleApp6switchcasetriangle\obj\Debug\netcoreapp3.1\Assignment1_8040.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\ConsoleApp6switchcasetriangle\ConsoleApp6switchcasetriangle\obj\Debug\netcoreapp3.1\Assignment1_8040.AssemblyInfo.cs
+C:\Users\Acer\source\repos\ConsoleApp6switchcasetriangle\ConsoleApp6switchcasetriangle\obj\Debug\netcoreapp3.1\Assignment1_8040.csproj.CoreCompileInputs.cache

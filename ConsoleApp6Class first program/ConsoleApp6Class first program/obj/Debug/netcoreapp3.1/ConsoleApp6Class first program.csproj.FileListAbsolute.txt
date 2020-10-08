@@ -1,0 +1,13 @@
+C:\Users\Acer\source\repos\ConsoleApp6Class first program\ConsoleApp6Class first program\bin\Debug\netcoreapp3.1\ConsoleApp6Class first program.exe
+C:\Users\Acer\source\repos\ConsoleApp6Class first program\ConsoleApp6Class first program\bin\Debug\netcoreapp3.1\ConsoleApp6Class first program.deps.json
+C:\Users\Acer\source\repos\ConsoleApp6Class first program\ConsoleApp6Class first program\bin\Debug\netcoreapp3.1\ConsoleApp6Class first program.runtimeconfig.json
+C:\Users\Acer\source\repos\ConsoleApp6Class first program\ConsoleApp6Class first program\bin\Debug\netcoreapp3.1\ConsoleApp6Class first program.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\ConsoleApp6Class first program\ConsoleApp6Class first program\bin\Debug\netcoreapp3.1\ConsoleApp6Class first program.dll
+C:\Users\Acer\source\repos\ConsoleApp6Class first program\ConsoleApp6Class first program\bin\Debug\netcoreapp3.1\ConsoleApp6Class first program.pdb
+C:\Users\Acer\source\repos\ConsoleApp6Class first program\ConsoleApp6Class first program\obj\Debug\netcoreapp3.1\ConsoleApp6Class first program.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\ConsoleApp6Class first program\ConsoleApp6Class first program\obj\Debug\netcoreapp3.1\ConsoleApp6Class first program.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\ConsoleApp6Class first program\ConsoleApp6Class first program\obj\Debug\netcoreapp3.1\ConsoleApp6Class first program.AssemblyInfo.cs
+C:\Users\Acer\source\repos\ConsoleApp6Class first program\ConsoleApp6Class first program\obj\Debug\netcoreapp3.1\ConsoleApp6Class first program.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\ConsoleApp6Class first program\ConsoleApp6Class first program\obj\Debug\netcoreapp3.1\ConsoleApp6Class first program.dll
+C:\Users\Acer\source\repos\ConsoleApp6Class first program\ConsoleApp6Class first program\obj\Debug\netcoreapp3.1\ConsoleApp6Class first program.pdb
+C:\Users\Acer\source\repos\ConsoleApp6Class first program\ConsoleApp6Class first program\obj\Debug\netcoreapp3.1\ConsoleApp6Class first program.genruntimeconfig.cache

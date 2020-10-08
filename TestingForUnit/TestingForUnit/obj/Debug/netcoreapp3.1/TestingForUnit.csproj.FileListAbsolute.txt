@@ -1,0 +1,13 @@
+C:\Users\Acer\source\repos\TestingForUnit\TestingForUnit\bin\Debug\netcoreapp3.1\TestingForUnit.exe
+C:\Users\Acer\source\repos\TestingForUnit\TestingForUnit\bin\Debug\netcoreapp3.1\TestingForUnit.deps.json
+C:\Users\Acer\source\repos\TestingForUnit\TestingForUnit\bin\Debug\netcoreapp3.1\TestingForUnit.runtimeconfig.json
+C:\Users\Acer\source\repos\TestingForUnit\TestingForUnit\bin\Debug\netcoreapp3.1\TestingForUnit.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\TestingForUnit\TestingForUnit\bin\Debug\netcoreapp3.1\TestingForUnit.dll
+C:\Users\Acer\source\repos\TestingForUnit\TestingForUnit\bin\Debug\netcoreapp3.1\TestingForUnit.pdb
+C:\Users\Acer\source\repos\TestingForUnit\TestingForUnit\obj\Debug\netcoreapp3.1\TestingForUnit.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\TestingForUnit\TestingForUnit\obj\Debug\netcoreapp3.1\TestingForUnit.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\TestingForUnit\TestingForUnit\obj\Debug\netcoreapp3.1\TestingForUnit.AssemblyInfo.cs
+C:\Users\Acer\source\repos\TestingForUnit\TestingForUnit\obj\Debug\netcoreapp3.1\TestingForUnit.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\TestingForUnit\TestingForUnit\obj\Debug\netcoreapp3.1\TestingForUnit.dll
+C:\Users\Acer\source\repos\TestingForUnit\TestingForUnit\obj\Debug\netcoreapp3.1\TestingForUnit.pdb
+C:\Users\Acer\source\repos\TestingForUnit\TestingForUnit\obj\Debug\netcoreapp3.1\TestingForUnit.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Acer\source\repos\biggest of three integers\biggest of three integers\obj\Debug\netcoreapp3.1\biggest of three integers.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\biggest of three integers\biggest of three integers\obj\Debug\netcoreapp3.1\biggest of three integers.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\biggest of three integers\biggest of three integers\obj\Debug\netcoreapp3.1\biggest of three integers.AssemblyInfo.cs
+C:\Users\Acer\source\repos\biggest of three integers\biggest of three integers\obj\Debug\netcoreapp3.1\biggest of three integers.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\biggest of three integers\biggest of three integers\bin\Debug\netcoreapp3.1\biggest of three integers.exe
+C:\Users\Acer\source\repos\biggest of three integers\biggest of three integers\bin\Debug\netcoreapp3.1\biggest of three integers.deps.json
+C:\Users\Acer\source\repos\biggest of three integers\biggest of three integers\bin\Debug\netcoreapp3.1\biggest of three integers.runtimeconfig.json
+C:\Users\Acer\source\repos\biggest of three integers\biggest of three integers\bin\Debug\netcoreapp3.1\biggest of three integers.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\biggest of three integers\biggest of three integers\bin\Debug\netcoreapp3.1\biggest of three integers.dll
+C:\Users\Acer\source\repos\biggest of three integers\biggest of three integers\bin\Debug\netcoreapp3.1\biggest of three integers.pdb
+C:\Users\Acer\source\repos\biggest of three integers\biggest of three integers\obj\Debug\netcoreapp3.1\biggest of three integers.dll
+C:\Users\Acer\source\repos\biggest of three integers\biggest of three integers\obj\Debug\netcoreapp3.1\biggest of three integers.pdb
+C:\Users\Acer\source\repos\biggest of three integers\biggest of three integers\obj\Debug\netcoreapp3.1\biggest of three integers.genruntimeconfig.cache
